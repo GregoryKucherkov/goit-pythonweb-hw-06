@@ -1,0 +1,48 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+.env/
+.venv/
+
+# Poetry-specific files
+poetry.lock
+
+# Pytest cache
+.pytest_cache/
+
+# Coverage reports
+.coverage
+htmlcov/
+.coverage.*
+.cache
+
+# MyPy
+.mypy_cache/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+*.swn
+
+# IDE files (adjust as necessary for your setup)
+.idea/
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
